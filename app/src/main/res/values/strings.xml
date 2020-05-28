@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="counter">Time Left</string>
+    <string name="countleft">Till Birthday 2k20!</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="birthday">Click Me!</string>
+    <string name="days">Days</string>
+    <string name="tvtext">Your surprise will be revealed after you click the above button</string>
+</resources>
